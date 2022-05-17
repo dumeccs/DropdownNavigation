@@ -26,7 +26,6 @@ const Nav = () => {
                 <button>
                     Register
                 </button>
-
             </div>
     </nav>
   )
