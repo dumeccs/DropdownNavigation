@@ -18,8 +18,11 @@ const Nav = () => {
                     <option value="Our Team" >Our Team</option>
                     <option value="Blog" >Blog</option>
                 </select>
-                <p>Careers</p>
-                <p>About</p>
+                <div class="nav-career">
+                   <p>Careers</p>
+                   <p>About</p>
+                </div>
+                
             </div>
             <div className='nav-right'>
                 <p>Login</p>
