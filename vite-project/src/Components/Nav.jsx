@@ -5,6 +5,9 @@ const Nav = () => {
     <nav >
             <div className='nav-left'>
                 <h2>Snap</h2>
+               
+
+            
                 <label htmlFor="Features">Features</label>
                 <select name="features" id="feature">
                     <option value="Todo List">Todo List</option>
