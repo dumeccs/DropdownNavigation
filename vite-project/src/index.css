@@ -1,4 +1,8 @@
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html{
   box-sizing: border-box;
   font-size: 1rem;
